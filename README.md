@@ -1,4 +1,4 @@
-# Modelo de Projeto com login(JWT) e uma criação e consulta de Order utilizando .net 5
+# Modelo de Projeto com autenticação(JWT) e uma criação e consulta de Order utilizando .net 5
 Projeto Asp net 5 com Login Jwt implementado e um cadastro de Order com Product, utilizando o conceito de Unidade única de trabalho(UnitOfWork)
 
 Abaixo segue o usuário e senha base para gerar os Tokens
