@@ -1,0 +1,156 @@
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\bin\Debug\net5.0\appsettings.json
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\bin\Debug\net5.0\AppSale.exe
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\bin\Debug\net5.0\AppSale.deps.json
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\bin\Debug\net5.0\AppSale.runtimeconfig.json
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\bin\Debug\net5.0\AppSale.runtimeconfig.dev.json
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\bin\Debug\net5.0\AppSale.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\bin\Debug\net5.0\ref\AppSale.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\bin\Debug\net5.0\AppSale.pdb
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\bin\Debug\net5.0\MediatR.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\bin\Debug\net5.0\AppSale.Application.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\bin\Debug\net5.0\AppSale.DataBase.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\bin\Debug\net5.0\AppSale.Domain.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\bin\Debug\net5.0\AppSale.Application.pdb
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\bin\Debug\net5.0\AppSale.DataBase.pdb
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\bin\Debug\net5.0\AppSale.Domain.pdb
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\obj\Debug\net5.0\AppSale.csprojAssemblyReference.cache
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\obj\Debug\net5.0\AppSale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\obj\Debug\net5.0\AppSale.AssemblyInfoInputs.cache
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\obj\Debug\net5.0\AppSale.AssemblyInfo.cs
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\obj\Debug\net5.0\AppSale.csproj.CoreCompileInputs.cache
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\obj\Debug\net5.0\AppSale.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\obj\Debug\net5.0\AppSale.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\obj\Debug\net5.0\staticwebassets\AppSale.StaticWebAssets.Manifest.cache
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\obj\Debug\net5.0\staticwebassets\AppSale.StaticWebAssets.xml
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\obj\Debug\net5.0\scopedcss\bundle\AppSale.styles.css
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\obj\Debug\net5.0\AppSale.RazorTargetAssemblyInfo.cache
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\obj\Debug\net5.0\AppSale.csproj.CopyComplete
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\obj\Debug\net5.0\AppSale.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\obj\Debug\net5.0\ref\AppSale.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\obj\Debug\net5.0\AppSale.pdb
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\obj\Debug\net5.0\AppSale.genruntimeconfig.cache
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\bin\Debug\net5.0\AppSale.Common.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\bin\Debug\net5.0\AppSale.Common.pdb
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\bin\Debug\net5.0\appsettings.json
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\bin\Debug\net5.0\AppSale.exe
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\bin\Debug\net5.0\AppSale.deps.json
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\bin\Debug\net5.0\AppSale.runtimeconfig.json
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\bin\Debug\net5.0\AppSale.runtimeconfig.dev.json
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\bin\Debug\net5.0\AppSale.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\bin\Debug\net5.0\ref\AppSale.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\bin\Debug\net5.0\AppSale.pdb
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\bin\Debug\net5.0\MediatR.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\bin\Debug\net5.0\AppSale.Application.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\bin\Debug\net5.0\AppSale.Common.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\bin\Debug\net5.0\AppSale.DataBase.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\bin\Debug\net5.0\AppSale.Domain.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\bin\Debug\net5.0\AppSale.Application.pdb
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\bin\Debug\net5.0\AppSale.DataBase.pdb
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\bin\Debug\net5.0\AppSale.Common.pdb
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\bin\Debug\net5.0\AppSale.Domain.pdb
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\obj\Debug\net5.0\AppSale.csprojAssemblyReference.cache
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\obj\Debug\net5.0\AppSale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\obj\Debug\net5.0\AppSale.AssemblyInfoInputs.cache
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\obj\Debug\net5.0\AppSale.AssemblyInfo.cs
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\obj\Debug\net5.0\AppSale.csproj.CoreCompileInputs.cache
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\obj\Debug\net5.0\AppSale.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\obj\Debug\net5.0\AppSale.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\obj\Debug\net5.0\staticwebassets\AppSale.StaticWebAssets.Manifest.cache
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\obj\Debug\net5.0\staticwebassets\AppSale.StaticWebAssets.xml
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\obj\Debug\net5.0\scopedcss\bundle\AppSale.styles.css
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\obj\Debug\net5.0\AppSale.RazorTargetAssemblyInfo.cache
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\obj\Debug\net5.0\AppSale.csproj.CopyComplete
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\obj\Debug\net5.0\AppSale.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\obj\Debug\net5.0\ref\AppSale.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\obj\Debug\net5.0\AppSale.pdb
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale\obj\Debug\net5.0\AppSale.genruntimeconfig.cache

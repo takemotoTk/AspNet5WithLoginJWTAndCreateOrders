@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="AutoMapper\**" />
+    <Compile Remove="Services\**" />
+    <EmbeddedResource Remove="AutoMapper\**" />
+    <EmbeddedResource Remove="Services\**" />
+    <None Remove="AutoMapper\**" />
+    <None Remove="Services\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="Class1.cs" />
+    <Compile Remove="Entities\Base\Class1.cs" />
+    <Compile Remove="Entities\IMapFrom.cs" />
+    <Compile Remove="Model\OrderModel.cs" />
+    <Compile Remove="Model\Response\OrderListResponse.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="10.3.4" />
+    <PackageReference Include="MediatR" Version="9.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="5.0.11" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.11" />
+    <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="6.13.1" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,23 @@
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale.Domain\bin\Debug\net5.0\AppSale.Domain.deps.json
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale.Domain\bin\Debug\net5.0\AppSale.Domain.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale.Domain\bin\Debug\net5.0\ref\AppSale.Domain.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale.Domain\bin\Debug\net5.0\AppSale.Domain.pdb
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale.Domain\obj\Debug\net5.0\AppSale.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale.Domain\obj\Debug\net5.0\AppSale.Domain.AssemblyInfoInputs.cache
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale.Domain\obj\Debug\net5.0\AppSale.Domain.AssemblyInfo.cs
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale.Domain\obj\Debug\net5.0\AppSale.Domain.csproj.CoreCompileInputs.cache
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale.Domain\obj\Debug\net5.0\AppSale.Domain.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale.Domain\obj\Debug\net5.0\ref\AppSale.Domain.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale.Domain\obj\Debug\net5.0\AppSale.Domain.pdb
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale.Domain\bin\Debug\net5.0\AppSale.Domain.deps.json
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale.Domain\bin\Debug\net5.0\AppSale.Domain.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale.Domain\bin\Debug\net5.0\ref\AppSale.Domain.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale.Domain\bin\Debug\net5.0\AppSale.Domain.pdb
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale.Domain\obj\Debug\net5.0\AppSale.Domain.csprojAssemblyReference.cache
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale.Domain\obj\Debug\net5.0\AppSale.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale.Domain\obj\Debug\net5.0\AppSale.Domain.AssemblyInfoInputs.cache
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale.Domain\obj\Debug\net5.0\AppSale.Domain.AssemblyInfo.cs
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale.Domain\obj\Debug\net5.0\AppSale.Domain.csproj.CoreCompileInputs.cache
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale.Domain\obj\Debug\net5.0\AppSale.Domain.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale.Domain\obj\Debug\net5.0\ref\AppSale.Domain.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale.Domain\obj\Debug\net5.0\AppSale.Domain.pdb

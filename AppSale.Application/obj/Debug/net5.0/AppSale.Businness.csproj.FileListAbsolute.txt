@@ -1,0 +1,11 @@
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale.Businness\bin\Debug\net5.0\AppSale.Businness.deps.json
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale.Businness\bin\Debug\net5.0\AppSale.Businness.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale.Businness\bin\Debug\net5.0\ref\AppSale.Businness.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale.Businness\bin\Debug\net5.0\AppSale.Businness.pdb
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale.Businness\obj\Debug\net5.0\AppSale.Businness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale.Businness\obj\Debug\net5.0\AppSale.Businness.AssemblyInfoInputs.cache
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale.Businness\obj\Debug\net5.0\AppSale.Businness.AssemblyInfo.cs
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale.Businness\obj\Debug\net5.0\AppSale.Businness.csproj.CoreCompileInputs.cache
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale.Businness\obj\Debug\net5.0\AppSale.Businness.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale.Businness\obj\Debug\net5.0\ref\AppSale.Businness.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale.Businness\obj\Debug\net5.0\AppSale.Businness.pdb

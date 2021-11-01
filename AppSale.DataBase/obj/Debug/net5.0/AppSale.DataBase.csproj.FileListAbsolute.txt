@@ -1,0 +1,36 @@
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale.DataBase\bin\Debug\net5.0\AppSale.DataBase.deps.json
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale.DataBase\bin\Debug\net5.0\AppSale.DataBase.runtimeconfig.json
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale.DataBase\bin\Debug\net5.0\AppSale.DataBase.runtimeconfig.dev.json
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale.DataBase\bin\Debug\net5.0\AppSale.DataBase.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale.DataBase\bin\Debug\net5.0\ref\AppSale.DataBase.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale.DataBase\bin\Debug\net5.0\AppSale.DataBase.pdb
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale.DataBase\bin\Debug\net5.0\AppSale.Domain.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale.DataBase\bin\Debug\net5.0\AppSale.Domain.pdb
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale.DataBase\obj\Debug\net5.0\AppSale.DataBase.csprojAssemblyReference.cache
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale.DataBase\obj\Debug\net5.0\AppSale.DataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale.DataBase\obj\Debug\net5.0\AppSale.DataBase.AssemblyInfoInputs.cache
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale.DataBase\obj\Debug\net5.0\AppSale.DataBase.AssemblyInfo.cs
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale.DataBase\obj\Debug\net5.0\AppSale.DataBase.csproj.CoreCompileInputs.cache
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale.DataBase\obj\Debug\net5.0\AppSale.DataBase.csproj.CopyComplete
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale.DataBase\obj\Debug\net5.0\AppSale.DataBase.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale.DataBase\obj\Debug\net5.0\ref\AppSale.DataBase.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale.DataBase\obj\Debug\net5.0\AppSale.DataBase.pdb
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\AppSale.DataBase\obj\Debug\net5.0\AppSale.DataBase.genruntimeconfig.cache
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale.DataBase\bin\Debug\net5.0\AppSale.DataBase.deps.json
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale.DataBase\bin\Debug\net5.0\AppSale.DataBase.runtimeconfig.json
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale.DataBase\bin\Debug\net5.0\AppSale.DataBase.runtimeconfig.dev.json
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale.DataBase\bin\Debug\net5.0\AppSale.DataBase.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale.DataBase\bin\Debug\net5.0\ref\AppSale.DataBase.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale.DataBase\bin\Debug\net5.0\AppSale.DataBase.pdb
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale.DataBase\bin\Debug\net5.0\AppSale.Domain.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale.DataBase\bin\Debug\net5.0\AppSale.Domain.pdb
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale.DataBase\obj\Debug\net5.0\AppSale.DataBase.csprojAssemblyReference.cache
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale.DataBase\obj\Debug\net5.0\AppSale.DataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale.DataBase\obj\Debug\net5.0\AppSale.DataBase.AssemblyInfoInputs.cache
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale.DataBase\obj\Debug\net5.0\AppSale.DataBase.AssemblyInfo.cs
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale.DataBase\obj\Debug\net5.0\AppSale.DataBase.csproj.CoreCompileInputs.cache
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale.DataBase\obj\Debug\net5.0\AppSale.DataBase.csproj.CopyComplete
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale.DataBase\obj\Debug\net5.0\AppSale.DataBase.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale.DataBase\obj\Debug\net5.0\ref\AppSale.DataBase.dll
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale.DataBase\obj\Debug\net5.0\AppSale.DataBase.pdb
+C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale.DataBase\obj\Debug\net5.0\AppSale.DataBase.genruntimeconfig.cache
