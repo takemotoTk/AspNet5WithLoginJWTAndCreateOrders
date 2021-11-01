@@ -21,3 +21,14 @@ C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\Ap
 C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale.Domain\obj\Debug\net5.0\AppSale.Domain.dll
 C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale.Domain\obj\Debug\net5.0\ref\AppSale.Domain.dll
 C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale.Domain\obj\Debug\net5.0\AppSale.Domain.pdb
+D:\ProjetosGit\AppSale\AppSale.Domain\bin\Debug\net5.0\AppSale.Domain.deps.json
+D:\ProjetosGit\AppSale\AppSale.Domain\bin\Debug\net5.0\AppSale.Domain.dll
+D:\ProjetosGit\AppSale\AppSale.Domain\bin\Debug\net5.0\ref\AppSale.Domain.dll
+D:\ProjetosGit\AppSale\AppSale.Domain\bin\Debug\net5.0\AppSale.Domain.pdb
+D:\ProjetosGit\AppSale\AppSale.Domain\obj\Debug\net5.0\AppSale.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetosGit\AppSale\AppSale.Domain\obj\Debug\net5.0\AppSale.Domain.AssemblyInfoInputs.cache
+D:\ProjetosGit\AppSale\AppSale.Domain\obj\Debug\net5.0\AppSale.Domain.AssemblyInfo.cs
+D:\ProjetosGit\AppSale\AppSale.Domain\obj\Debug\net5.0\AppSale.Domain.csproj.CoreCompileInputs.cache
+D:\ProjetosGit\AppSale\AppSale.Domain\obj\Debug\net5.0\AppSale.Domain.dll
+D:\ProjetosGit\AppSale\AppSale.Domain\obj\Debug\net5.0\ref\AppSale.Domain.dll
+D:\ProjetosGit\AppSale\AppSale.Domain\obj\Debug\net5.0\AppSale.Domain.pdb

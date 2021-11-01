@@ -34,3 +34,22 @@ C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\Ap
 C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale.Application\obj\Debug\net5.0\AppSale.Application.dll
 C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale.Application\obj\Debug\net5.0\ref\AppSale.Application.dll
 C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale.Application\obj\Debug\net5.0\AppSale.Application.pdb
+D:\ProjetosGit\AppSale\AppSale.Application\bin\Debug\net5.0\AppSale.Application.deps.json
+D:\ProjetosGit\AppSale\AppSale.Application\bin\Debug\net5.0\AppSale.Application.dll
+D:\ProjetosGit\AppSale\AppSale.Application\bin\Debug\net5.0\ref\AppSale.Application.dll
+D:\ProjetosGit\AppSale\AppSale.Application\bin\Debug\net5.0\AppSale.Application.pdb
+D:\ProjetosGit\AppSale\AppSale.Application\bin\Debug\net5.0\AppSale.Common.dll
+D:\ProjetosGit\AppSale\AppSale.Application\bin\Debug\net5.0\AppSale.DataBase.dll
+D:\ProjetosGit\AppSale\AppSale.Application\bin\Debug\net5.0\AppSale.Domain.dll
+D:\ProjetosGit\AppSale\AppSale.Application\bin\Debug\net5.0\AppSale.Common.pdb
+D:\ProjetosGit\AppSale\AppSale.Application\bin\Debug\net5.0\AppSale.DataBase.pdb
+D:\ProjetosGit\AppSale\AppSale.Application\bin\Debug\net5.0\AppSale.Domain.pdb
+D:\ProjetosGit\AppSale\AppSale.Application\obj\Debug\net5.0\AppSale.Application.csprojAssemblyReference.cache
+D:\ProjetosGit\AppSale\AppSale.Application\obj\Debug\net5.0\AppSale.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetosGit\AppSale\AppSale.Application\obj\Debug\net5.0\AppSale.Application.AssemblyInfoInputs.cache
+D:\ProjetosGit\AppSale\AppSale.Application\obj\Debug\net5.0\AppSale.Application.AssemblyInfo.cs
+D:\ProjetosGit\AppSale\AppSale.Application\obj\Debug\net5.0\AppSale.Application.csproj.CoreCompileInputs.cache
+D:\ProjetosGit\AppSale\AppSale.Application\obj\Debug\net5.0\AppSale.Application.csproj.CopyComplete
+D:\ProjetosGit\AppSale\AppSale.Application\obj\Debug\net5.0\AppSale.Application.dll
+D:\ProjetosGit\AppSale\AppSale.Application\obj\Debug\net5.0\ref\AppSale.Application.dll
+D:\ProjetosGit\AppSale\AppSale.Application\obj\Debug\net5.0\AppSale.Application.pdb

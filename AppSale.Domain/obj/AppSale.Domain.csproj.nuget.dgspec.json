@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\takemoto\\Desktop\\Bkp_Note\\Projetos Novos\\ArquiteturaTeste\\New folder\\AppSale.Domain\\AppSale.Domain.csproj": {}
+    "D:\\ProjetosGit\\AppSale\\AppSale.Domain\\AppSale.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\takemoto\\Desktop\\Bkp_Note\\Projetos Novos\\ArquiteturaTeste\\New folder\\AppSale.Domain\\AppSale.Domain.csproj": {
+    "D:\\ProjetosGit\\AppSale\\AppSale.Domain\\AppSale.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\takemoto\\Desktop\\Bkp_Note\\Projetos Novos\\ArquiteturaTeste\\New folder\\AppSale.Domain\\AppSale.Domain.csproj",
+        "projectUniqueName": "D:\\ProjetosGit\\AppSale\\AppSale.Domain\\AppSale.Domain.csproj",
         "projectName": "AppSale.Domain",
-        "projectPath": "C:\\Users\\takemoto\\Desktop\\Bkp_Note\\Projetos Novos\\ArquiteturaTeste\\New folder\\AppSale.Domain\\AppSale.Domain.csproj",
+        "projectPath": "D:\\ProjetosGit\\AppSale\\AppSale.Domain\\AppSale.Domain.csproj",
         "packagesPath": "C:\\Users\\takemoto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\takemoto\\Desktop\\Bkp_Note\\Projetos Novos\\ArquiteturaTeste\\New folder\\AppSale.Domain\\obj\\",
+        "outputPath": "D:\\ProjetosGit\\AppSale\\AppSale.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

@@ -28,3 +28,18 @@ C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\Ap
 C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale.Common\obj\Debug\net5.0\AppSale.Common.dll
 C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale.Common\obj\Debug\net5.0\ref\AppSale.Common.dll
 C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale.Common\obj\Debug\net5.0\AppSale.Common.pdb
+D:\ProjetosGit\AppSale\AppSale.Common\bin\Debug\net5.0\AppSale.Common.deps.json
+D:\ProjetosGit\AppSale\AppSale.Common\bin\Debug\net5.0\AppSale.Common.dll
+D:\ProjetosGit\AppSale\AppSale.Common\bin\Debug\net5.0\ref\AppSale.Common.dll
+D:\ProjetosGit\AppSale\AppSale.Common\bin\Debug\net5.0\AppSale.Common.pdb
+D:\ProjetosGit\AppSale\AppSale.Common\bin\Debug\net5.0\AppSale.Domain.dll
+D:\ProjetosGit\AppSale\AppSale.Common\bin\Debug\net5.0\AppSale.Domain.pdb
+D:\ProjetosGit\AppSale\AppSale.Common\obj\Debug\net5.0\AppSale.Common.csprojAssemblyReference.cache
+D:\ProjetosGit\AppSale\AppSale.Common\obj\Debug\net5.0\AppSale.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetosGit\AppSale\AppSale.Common\obj\Debug\net5.0\AppSale.Common.AssemblyInfoInputs.cache
+D:\ProjetosGit\AppSale\AppSale.Common\obj\Debug\net5.0\AppSale.Common.AssemblyInfo.cs
+D:\ProjetosGit\AppSale\AppSale.Common\obj\Debug\net5.0\AppSale.Common.csproj.CoreCompileInputs.cache
+D:\ProjetosGit\AppSale\AppSale.Common\obj\Debug\net5.0\AppSale.Common.csproj.CopyComplete
+D:\ProjetosGit\AppSale\AppSale.Common\obj\Debug\net5.0\AppSale.Common.dll
+D:\ProjetosGit\AppSale\AppSale.Common\obj\Debug\net5.0\ref\AppSale.Common.dll
+D:\ProjetosGit\AppSale\AppSale.Common\obj\Debug\net5.0\AppSale.Common.pdb

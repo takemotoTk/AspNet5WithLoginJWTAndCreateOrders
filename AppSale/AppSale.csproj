@@ -16,7 +16,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\AppSale.Application\AppSale.Application.csproj" />
-    <ProjectReference Include="..\AppSale.Businness\AppSale.Application.csproj" />
     <ProjectReference Include="..\AppSale.DataBase\AppSale.DataBase.csproj" />
   </ItemGroup>
 

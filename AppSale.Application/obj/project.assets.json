@@ -5886,11 +5886,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\takemoto\\Desktop\\Bkp_Note\\Projetos Novos\\ArquiteturaTeste\\New folder\\AppSale.Application\\AppSale.Application.csproj",
+      "projectUniqueName": "D:\\ProjetosGit\\AppSale\\AppSale.Application\\AppSale.Application.csproj",
       "projectName": "AppSale.Application",
-      "projectPath": "C:\\Users\\takemoto\\Desktop\\Bkp_Note\\Projetos Novos\\ArquiteturaTeste\\New folder\\AppSale.Application\\AppSale.Application.csproj",
+      "projectPath": "D:\\ProjetosGit\\AppSale\\AppSale.Application\\AppSale.Application.csproj",
       "packagesPath": "C:\\Users\\takemoto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\takemoto\\Desktop\\Bkp_Note\\Projetos Novos\\ArquiteturaTeste\\New folder\\AppSale.Application\\obj\\",
+      "outputPath": "D:\\ProjetosGit\\AppSale\\AppSale.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -5911,14 +5911,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\takemoto\\Desktop\\Bkp_Note\\Projetos Novos\\ArquiteturaTeste\\New folder\\AppSale.Common\\AppSale.Common.csproj": {
-              "projectPath": "C:\\Users\\takemoto\\Desktop\\Bkp_Note\\Projetos Novos\\ArquiteturaTeste\\New folder\\AppSale.Common\\AppSale.Common.csproj"
+            "D:\\ProjetosGit\\AppSale\\AppSale.Common\\AppSale.Common.csproj": {
+              "projectPath": "D:\\ProjetosGit\\AppSale\\AppSale.Common\\AppSale.Common.csproj"
             },
-            "C:\\Users\\takemoto\\Desktop\\Bkp_Note\\Projetos Novos\\ArquiteturaTeste\\New folder\\AppSale.DataBase\\AppSale.DataBase.csproj": {
-              "projectPath": "C:\\Users\\takemoto\\Desktop\\Bkp_Note\\Projetos Novos\\ArquiteturaTeste\\New folder\\AppSale.DataBase\\AppSale.DataBase.csproj"
+            "D:\\ProjetosGit\\AppSale\\AppSale.DataBase\\AppSale.DataBase.csproj": {
+              "projectPath": "D:\\ProjetosGit\\AppSale\\AppSale.DataBase\\AppSale.DataBase.csproj"
             },
-            "C:\\Users\\takemoto\\Desktop\\Bkp_Note\\Projetos Novos\\ArquiteturaTeste\\New folder\\AppSale.Domain\\AppSale.Domain.csproj": {
-              "projectPath": "C:\\Users\\takemoto\\Desktop\\Bkp_Note\\Projetos Novos\\ArquiteturaTeste\\New folder\\AppSale.Domain\\AppSale.Domain.csproj"
+            "D:\\ProjetosGit\\AppSale\\AppSale.Domain\\AppSale.Domain.csproj": {
+              "projectPath": "D:\\ProjetosGit\\AppSale\\AppSale.Domain\\AppSale.Domain.csproj"
             }
           }
         }

@@ -34,3 +34,21 @@ C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\Ap
 C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale.DataBase\obj\Debug\net5.0\ref\AppSale.DataBase.dll
 C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale.DataBase\obj\Debug\net5.0\AppSale.DataBase.pdb
 C:\Users\takemoto\Desktop\Bkp_Note\Projetos Novos\ArquiteturaTeste\New folder\AppSale.DataBase\obj\Debug\net5.0\AppSale.DataBase.genruntimeconfig.cache
+D:\ProjetosGit\AppSale\AppSale.DataBase\bin\Debug\net5.0\AppSale.DataBase.deps.json
+D:\ProjetosGit\AppSale\AppSale.DataBase\bin\Debug\net5.0\AppSale.DataBase.runtimeconfig.json
+D:\ProjetosGit\AppSale\AppSale.DataBase\bin\Debug\net5.0\AppSale.DataBase.runtimeconfig.dev.json
+D:\ProjetosGit\AppSale\AppSale.DataBase\bin\Debug\net5.0\AppSale.DataBase.dll
+D:\ProjetosGit\AppSale\AppSale.DataBase\bin\Debug\net5.0\ref\AppSale.DataBase.dll
+D:\ProjetosGit\AppSale\AppSale.DataBase\bin\Debug\net5.0\AppSale.DataBase.pdb
+D:\ProjetosGit\AppSale\AppSale.DataBase\bin\Debug\net5.0\AppSale.Domain.dll
+D:\ProjetosGit\AppSale\AppSale.DataBase\bin\Debug\net5.0\AppSale.Domain.pdb
+D:\ProjetosGit\AppSale\AppSale.DataBase\obj\Debug\net5.0\AppSale.DataBase.csprojAssemblyReference.cache
+D:\ProjetosGit\AppSale\AppSale.DataBase\obj\Debug\net5.0\AppSale.DataBase.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetosGit\AppSale\AppSale.DataBase\obj\Debug\net5.0\AppSale.DataBase.AssemblyInfoInputs.cache
+D:\ProjetosGit\AppSale\AppSale.DataBase\obj\Debug\net5.0\AppSale.DataBase.AssemblyInfo.cs
+D:\ProjetosGit\AppSale\AppSale.DataBase\obj\Debug\net5.0\AppSale.DataBase.csproj.CoreCompileInputs.cache
+D:\ProjetosGit\AppSale\AppSale.DataBase\obj\Debug\net5.0\AppSale.DataBase.csproj.CopyComplete
+D:\ProjetosGit\AppSale\AppSale.DataBase\obj\Debug\net5.0\AppSale.DataBase.dll
+D:\ProjetosGit\AppSale\AppSale.DataBase\obj\Debug\net5.0\ref\AppSale.DataBase.dll
+D:\ProjetosGit\AppSale\AppSale.DataBase\obj\Debug\net5.0\AppSale.DataBase.pdb
+D:\ProjetosGit\AppSale\AppSale.DataBase\obj\Debug\net5.0\AppSale.DataBase.genruntimeconfig.cache

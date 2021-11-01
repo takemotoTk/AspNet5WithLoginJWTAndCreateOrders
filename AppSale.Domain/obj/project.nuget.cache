@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kV+l7N12ZUqE9ti5DmeJciNWMrOiJ8pVfG+JQHBZVhzd/2JJ5vNVgSynWl/fsGWP2iPrgnyhqc3vya9g0SveIg==",
+  "dgSpecHash": "XZl0jHoOEApqkO7Hffn8L8SxEUJkdoPssrFi0Fg15ge94GL9OMfHlgKUOMjmNvjlwj1RbqvJm5A8u6hZwZmeTQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\takemoto\\Desktop\\Bkp_Note\\Projetos Novos\\ArquiteturaTeste\\New folder\\AppSale.Domain\\AppSale.Domain.csproj",
+  "projectFilePath": "D:\\ProjetosGit\\AppSale\\AppSale.Domain\\AppSale.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\takemoto\\.nuget\\packages\\fluentvalidation\\10.3.4\\fluentvalidation.10.3.4.nupkg.sha512",
     "C:\\Users\\takemoto\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",

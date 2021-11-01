@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tH3KEDdGaqtyAryi2YdHTLlT1IfIBMN9rB87N3WOhKI6NiFUAVpELFRTJFDJe40u1F/A4CXBm6Z4djii3WCHnQ==",
+  "dgSpecHash": "nGSxFCOHW6IQevTpaarYF8bdAmyeb+mNJPGcXcsXO5nvbq6LN/5GulL2h+SSuD1BPJqIh50bMWiMkDyfWEmnMA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\takemoto\\Desktop\\Bkp_Note\\Projetos Novos\\ArquiteturaTeste\\New folder\\AppSale.DataBase\\AppSale.DataBase.csproj",
+  "projectFilePath": "D:\\ProjetosGit\\AppSale\\AppSale.DataBase\\AppSale.DataBase.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\takemoto\\.nuget\\packages\\fluentvalidation\\10.3.4\\fluentvalidation.10.3.4.nupkg.sha512",
     "C:\\Users\\takemoto\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

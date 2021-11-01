@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fLB8DgXiZ2P/dhHkl7PWLWy17juqj+TMxNJFm8f/l1PsBxB8QfgMWXulL0d82k40zaKPY1f1UycYAtbAi5zu4Q==",
+  "dgSpecHash": "wTP3NkTeTuBPISQQ43kbCVvzthu1SfY4aBG+k+OCvTKZp6cokKvoF1Jey3SDipesaEUZmdudVCYV6ClqjFTkEw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\takemoto\\Desktop\\Bkp_Note\\Projetos Novos\\ArquiteturaTeste\\New folder\\AppSale\\AppSale.csproj",
+  "projectFilePath": "D:\\ProjetosGit\\AppSale\\AppSale\\AppSale.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\takemoto\\.nuget\\packages\\fluentvalidation\\10.3.4\\fluentvalidation.10.3.4.nupkg.sha512",
     "C:\\Users\\takemoto\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.3.4\\fluentvalidation.aspnetcore.10.3.4.nupkg.sha512",
